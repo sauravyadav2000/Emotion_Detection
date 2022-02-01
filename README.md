@@ -1,4 +1,5 @@
 # Emotion_Detection
+A model which will detect your emotions in real time on webcam or in a video
 
 Before moving into the project 
 install some libraries 
